@@ -1,0 +1,59 @@
+IMG_0285.png
+size:1992,716
+filter:Linear,Linear
+pma:true
+scale:0.3
+dot
+bounds:471,2,14,14
+offsets:2,2,18,18
+Белая Часть
+bounds:1501,293,88,74
+rotate:90
+Бровь Левая
+bounds:888,207,33,47
+Бровь Правая
+bounds:836,2,41,23
+rotate:90
+Волоски
+bounds:861,3,40,75
+rotate:90
+Глаза
+bounds:1577,329,57,52
+Клюв
+bounds:1501,383,149,224
+Левое Крыло
+bounds:1662,441,325,271
+Молнии1
+bounds:2,6,195,467
+rotate:90
+Молнии2
+bounds:995,2,252,349
+offsets:2,2,255,359
+rotate:90
+Молнии3
+bounds:888,256,456,261
+offsets:4,0,461,261
+rotate:90
+Молнии4
+bounds:2,203,884,509
+offsets:66,140,950,649
+Нога Левая
+bounds:836,45,156,146
+rotate:90
+Нога Правая
+bounds:1501,609,103,153
+rotate:90
+Правое крыло
+bounds:1346,36,229,314
+rotate:90
+Скелет
+bounds:1151,267,445,348
+rotate:90
+Тело
+bounds:1662,51,319,388
+offsets:0,0,319,389
+Хвост
+bounds:471,18,363,183
+язык
+bounds:938,4,39,55
+rotate:90
