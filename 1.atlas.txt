@@ -1,0 +1,84 @@
+IMG_0285.png
+size:1856,780
+filter:Linear,Linear
+pma:true
+scale:0.3
+dot
+bounds:864,141,14,14
+offsets:2,2,18,18
+electric/1
+bounds:1332,338,118,49
+electric/2
+bounds:811,2,115,43
+rotate:90
+electric/3
+bounds:1203,128,114,41
+rotate:90
+electric/4
+bounds:1529,351,115,36
+electric/5
+bounds:1203,12,114,41
+rotate:90
+electric/6
+bounds:1253,312,115,52
+rotate:90
+Белая Часть
+bounds:811,178,88,74
+rotate:90
+Бровь Левая
+bounds:1529,316,33,47
+rotate:90
+Бровь Правая
+bounds:1307,386,41,23
+rotate:90
+Волоски
+bounds:1452,347,40,75
+rotate:90
+Глаза
+bounds:811,119,57,51
+rotate:90
+Клюв
+bounds:1580,159,149,224
+rotate:90
+Левое Крыло
+bounds:1253,39,325,271
+Молнии1
+bounds:1656,310,195,467
+Молнии2
+bounds:460,14,252,349
+offsets:2,2,255,359
+rotate:90
+Молнии3
+bounds:2,5,456,261
+offsets:4,0,461,261
+Молнии4
+bounds:2,268,884,509
+offsets:66,140,950,649
+Нога Левая
+bounds:1580,11,156,146
+Нога Правая
+bounds:1738,4,103,153
+Правое крыло
+bounds:887,13,229,314
+rotate:90
+Скелет
+bounds:888,429,445,348
+Тело
+bounds:1335,389,319,388
+offsets:0,0,319,389
+Хвост
+bounds:888,244,363,183
+к1
+bounds:864,157,19,16
+rotate:90
+к2
+bounds:856,79,11,10
+rotate:90
+к3
+bounds:864,128,12,11
+к4
+bounds:856,92,25,22
+rotate:90
+язык
+bounds:1580,310,39,55
+rotate:90
