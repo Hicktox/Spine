@@ -1,4 +1,4 @@
-IMG_0285.png
+IMG_2.png
 size:1988,1272
 filter:Linear,Linear
 pma:true
