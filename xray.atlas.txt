@@ -1,4 +1,4 @@
-IMG_0313.png
+xray.png
 size:1304,1032
 filter:Linear,Linear
 pma:true
