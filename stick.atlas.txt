@@ -1,0 +1,109 @@
+stick.png
+size:1996,1592
+filter:Linear,Linear
+pma:true
+scale:0.3
+Energy 65 Up/Energy 65 Up 00025
+bounds:70,51,201,366
+Energy 65 Up/Energy 65 Up 00026
+bounds:538,1222,201,366
+Energy 65 Up/Energy 65 Up 00027
+bounds:306,644,201,366
+Energy 65 Up/Energy 65 Up 00028
+bounds:306,441,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00029
+bounds:509,644,201,366
+Energy 65 Up/Energy 65 Up 00030
+bounds:399,73,201,366
+Energy 65 Up/Energy 65 Up 00031
+bounds:602,73,201,366
+Energy 65 Up/Energy 65 Up 00032
+bounds:674,441,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00033
+bounds:712,644,201,366
+Energy 65 Up/Energy 65 Up 00034
+bounds:718,1019,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00035
+bounds:741,1222,201,366
+Energy 65 Up/Energy 65 Up 00036
+bounds:944,1222,201,366
+Energy 65 Up/Energy 65 Up 00037
+bounds:915,651,201,366
+Energy 65 Up/Energy 65 Up 00038
+bounds:1086,1019,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00039
+bounds:1147,1222,201,366
+Energy 65 Up/Energy 65 Up 00040
+bounds:1350,1222,201,366
+Energy 65 Up/Energy 65 Up 00041
+bounds:805,73,201,366
+Energy 65 Up/Energy 65 Up 00042
+bounds:1008,73,201,366
+Energy 65 Up/Energy 65 Up 00043
+bounds:1042,448,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00044
+bounds:1118,651,201,366
+Energy 65 Up/Energy 65 Up 00045
+bounds:1321,651,201,366
+Energy 65 Up/Energy 65 Up 00046
+bounds:1454,1019,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00047
+bounds:1553,1222,201,366
+Energy 65 Up/Energy 65 Up 00048
+bounds:1756,1222,201,366
+Energy 65 Up/Energy 65 Up 00049
+bounds:1778,573,201,366
+Energy 65 Up/Energy 65 Up 00050
+bounds:1410,448,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00051
+bounds:1778,205,201,366
+Energy 65 Up/Energy 65 Up 00052
+bounds:1211,2,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00053
+bounds:1579,2,201,366
+rotate:90
+Energy 65 Up/Energy 65 Up 00054
+bounds:1211,245,201,366
+rotate:90
+LightSweep
+bounds:70,11,38,38
+luchik
+bounds:538,1156,61,64
+offsets:2,2,65,68
+mol2/1
+bounds:273,10,426,124
+rotate:90
+mol2/2
+bounds:380,1140,448,156
+rotate:90
+mol2/3
+bounds:2,419,542,152
+rotate:90
+mol2/4
+bounds:156,438,523,148
+rotate:90
+mol2/5
+bounds:258,1088,500,120
+rotate:90
+mol2/6
+bounds:258,1012,458,74
+mol2/7
+bounds:2,38,379,66
+rotate:90
+Внутренняя Часть Крыла
+bounds:1524,704,313,252
+rotate:90
+Красные Глаза
+bounds:1579,295,152,151
+Пальцы
+bounds:1822,941,170,279
+Посох
+bounds:2,963,254,625
