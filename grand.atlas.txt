@@ -1,4 +1,4 @@
-дед.png
+grand.png
 size:1252,1148
 filter:Linear,Linear
 pma:true
