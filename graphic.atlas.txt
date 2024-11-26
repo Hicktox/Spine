@@ -1,4 +1,4 @@
-graphic.webp
+graphic.png
 size:1604,1288
 filter:Linear,Linear
 pma:true
