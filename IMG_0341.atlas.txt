@@ -1,4 +1,4 @@
-IMG_0341.png
+IMG_0341.webp
 size:2048,1756
 filter:Linear,Linear
 pma:true
