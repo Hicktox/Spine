@@ -1,4 +1,4 @@
-stick1.webp
+stick1.png
 size:1900,412
 filter:Linear,Linear
 pma:true
