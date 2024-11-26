@@ -1,4 +1,4 @@
-xray.webp
+xray.png
 size:1304,1032
 filter:Linear,Linear
 pma:true
