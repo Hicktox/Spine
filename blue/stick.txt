@@ -1,0 +1,37 @@
+IMG_0316.png
+size:1988,1356
+filter:Linear,Linear
+pma:true
+scale:0.8
+LightSweep
+bounds:1670,714,102,102
+luchik
+bounds:1670,818,166,172
+offsets:4,5,174,182
+mol2/1
+bounds:838,113,362,109
+mol2/2
+bounds:1670,992,362,109
+rotate:90
+mol2/3
+bounds:1202,113,362,109
+mol2/4
+bounds:1781,992,362,109
+rotate:90
+mol2/5
+bounds:838,2,362,109
+mol2/6
+bounds:1202,2,362,109
+mol2/7
+bounds:1583,158,362,109
+Внутренняя Часть Крыла
+bounds:2,3,834,671
+Красные Глаза
+bounds:1583,269,405,403
+rotate:90
+Пальцы
+bounds:838,224,450,743
+rotate:90
+Посох
+bounds:2,676,678,1666
+rotate:90
