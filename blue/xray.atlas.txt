@@ -1,0 +1,104 @@
+xray.png
+size:2036,1596
+filter:Linear,Linear
+pma:true
+scale:0.8
+Белая Часть
+bounds:778,1504,111,90
+Глаза
+bounds:434,1519,79,75
+Голова
+bounds:2,1074,270,313
+rotate:90
+Клюв
+bounds:914,1234,232,242
+rotate:90
+Круг
+bounds:2,85,799,799
+Левая Бровь
+bounds:289,1540,64,54
+Левая Нога
+bounds:1798,1432,162,202
+rotate:90
+Левое Крыло
+bounds:1674,1164,358,266
+Монета
+bounds:1252,1458,137,136
+Перья
+bounds:891,1498,215,96
+Правая Бровь
+bounds:355,1528,77,66
+Правая Нога
+bounds:317,1028,279,290
+rotate:90
+Правое Крыло
+bounds:1083,854,432,349
+Скелет
+bounds:609,886,472,346
+Слой 10
+bounds:1604,1433,161,192
+rotate:90
+Слой 11
+bounds:1158,1205,226,514
+offsets:0,0,227,514
+rotate:90
+Слой 12
+bounds:1108,1468,126,142
+rotate:90
+Слой 13
+bounds:803,2,854,850
+Слой 14
+bounds:139,1568,26,33
+rotate:90
+Слой 2
+bounds:2,1368,178,210
+rotate:90
+Слой 3
+bounds:1391,1438,211,156
+Слой 5
+bounds:515,1517,91,77
+Слой 6
+bounds:608,1512,168,82
+Слой 7
+bounds:402,1309,214,201
+Слой 8
+bounds:214,1346,186,180
+Слой 9
+bounds:618,1285,294,211
+Части Тела X-ray
+bounds:174,1548,113,46
+бок
+bounds:2,1576,18,135
+rotate:90
+
+xray2.png
+size:1116,1068
+filter:Linear,Linear
+pma:true
+scale:0.8
+X-ray
+bounds:2,2,1110,1062
+
+xray3.png
+size:1432,1176
+filter:Linear,Linear
+pma:true
+scale:0.8
+Рентген
+bounds:2,2,1427,1171
+
+xray4.png
+size:1460,1224
+filter:Linear,Linear
+pma:true
+scale:0.8
+Тело X-ray
+bounds:2,2,1456,1218
+
+xray5.png
+size:1460,1224
+filter:Linear,Linear
+pma:true
+scale:0.8
+Тело
+bounds:2,2,1456,1218
