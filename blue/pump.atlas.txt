@@ -1,0 +1,271 @@
+pump.png
+size:2032,2000
+filter:Linear,Linear
+pma:true
+scale:0.8
+burst/1
+bounds:2,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/10
+bounds:51,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/11
+bounds:100,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/12
+bounds:149,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/13
+bounds:198,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/14
+bounds:247,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/15
+bounds:296,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/16
+bounds:345,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/17
+bounds:394,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/18
+bounds:443,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/19
+bounds:492,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/2
+bounds:541,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/3
+bounds:590,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/4
+bounds:639,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/5
+bounds:688,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/6
+bounds:737,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/7
+bounds:786,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/8
+bounds:835,1983,15,47
+offsets:8,13,32,82
+rotate:90
+burst/9
+bounds:884,1983,15,47
+offsets:8,13,32,82
+rotate:90
+mol1/1
+bounds:933,1912,109,86
+mol1/2
+bounds:1044,1912,109,86
+mol1/3
+bounds:1155,1912,109,86
+mol1/4
+bounds:1266,1912,109,86
+mol1/5
+bounds:1377,1912,109,86
+mol1/6
+bounds:1488,1912,109,86
+mol2/1
+bounds:2,1872,362,109
+mol2/2
+bounds:366,1872,362,109
+mol2/3
+bounds:886,1801,362,109
+mol2/4
+bounds:1250,1798,362,109
+mol2/5
+bounds:1614,1762,362,109
+mol2/6
+bounds:2,1761,362,109
+mol2/7
+bounds:366,1761,362,109
+Белая Часть
+bounds:1070,1633,166,177
+rotate:90
+Волоски
+bounds:1859,1873,170,125
+Глаза
+bounds:1707,1876,150,122
+Голова
+bounds:968,657,471,514
+rotate:90
+Клюв
+bounds:818,1223,474,402
+Левая Бровь
+bounds:1599,1909,89,106
+rotate:90
+Левая Нога
+bounds:2,893,508,444
+Памперсы
+bounds:360,1339,312,456
+rotate:90
+Перья1
+bounds:2,1492,356,267
+Перья2
+bounds:1521,1558,434,202
+Правая Бровь
+bounds:730,1853,154,128
+Правая Нога
+bounds:1294,1130,426,462
+rotate:90
+Слой 1
+bounds:1249,1627,169,270
+offsets:0,0,170,270
+rotate:90
+Слой 2
+bounds:730,1653,146,338
+rotate:90
+Тело
+bounds:2,2,653,1082
+offsets:0,0,653,1098
+rotate:90
+Цветовой тон_Насыщенность 1
+bounds:512,775,446,454
+rotate:90
+
+pump2.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/1
+bounds:2,804,800,800
+Smoke 067 Up/10
+bounds:804,804,800,800
+Smoke 067 Up/11
+bounds:2,2,800,800
+Smoke 067 Up/12
+bounds:804,2,800,800
+
+pump3.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/13
+bounds:2,804,800,800
+Smoke 067 Up/14
+bounds:804,804,800,800
+Smoke 067 Up/15
+bounds:2,2,800,800
+Smoke 067 Up/16
+bounds:804,2,800,800
+
+pump4.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/17
+bounds:2,804,800,800
+Smoke 067 Up/18
+bounds:804,804,800,800
+Smoke 067 Up/19
+bounds:2,2,800,800
+Smoke 067 Up/2
+bounds:804,2,800,800
+
+pump5.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/20
+bounds:2,804,800,800
+Smoke 067 Up/21
+bounds:804,804,800,800
+Smoke 067 Up/22
+bounds:2,2,800,800
+Smoke 067 Up/23
+bounds:804,2,800,800
+
+pump6.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/24
+bounds:2,804,800,800
+Smoke 067 Up/25
+bounds:804,804,800,800
+Smoke 067 Up/26
+bounds:2,2,800,800
+Smoke 067 Up/27
+bounds:804,2,800,800
+
+pump7.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/28
+bounds:2,804,800,800
+Smoke 067 Up/29
+bounds:804,804,800,800
+Smoke 067 Up/3
+bounds:2,2,800,800
+Smoke 067 Up/4
+bounds:804,2,800,800
+
+pump8.png
+size:1608,1608
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/5
+bounds:2,804,800,800
+Smoke 067 Up/6
+bounds:804,804,800,800
+Smoke 067 Up/7
+bounds:2,2,800,800
+Smoke 067 Up/8
+bounds:804,2,800,800
+
+pump9.png
+size:2000,1812
+filter:Linear,Linear
+pma:true
+scale:0.8
+pnssagegg
+bounds:1089,2,907,907
+Левое Крыло
+bounds:2,83,1085,865
+Правое Крыло
+bounds:2,950,1146,859
+Хвост
+bounds:1150,911,898,814
+rotate:90
+
+pump10.png
+size:804,804
+filter:Linear,Linear
+pma:true
+scale:0.8
+Smoke 067 Up/9
+bounds:2,2,800,800
