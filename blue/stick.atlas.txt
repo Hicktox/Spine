@@ -1,4 +1,4 @@
-IMG_0316.png
+stick.png
 size:1988,1356
 filter:Linear,Linear
 pma:true
