@@ -1,0 +1,35 @@
+coin.png
+size:1976,728
+filter:Linear,Linear
+pma:true
+scale:0.8
+LightSweep1
+bounds:1677,230,102,102
+pnssagegg
+bounds:2,2,907,723
+offsets:0,99,907,907
+shockwave_55
+bounds:911,25,387,700
+offsets:22,60,819,819
+sparkleflare3
+bounds:1781,264,68,68
+offsets:20,16,102,102
+Левая Лапа
+bounds:1300,215,269,375
+rotate:90
+Левая Часть
+bounds:1300,6,207,431
+offsets:215,0,422,431
+rotate:90
+Монета
+bounds:1733,91,137,136
+rotate:90
+Правая Часть
+bounds:1300,486,239,433
+offsets:0,0,426,433
+rotate:90
+Слой 1
+bounds:1735,334,237,391
+бок
+bounds:911,5,18,135
+rotate:90
